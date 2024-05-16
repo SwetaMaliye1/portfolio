@@ -307,7 +307,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 
-=======
 
 
 // Function to check if the device is a mobile device
